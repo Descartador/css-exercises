@@ -12,6 +12,7 @@ html {
 }
 
 .container div {
+  display: grid;
   padding: 15px;
   font-size: 32px;
   font-family: Helvetica;
